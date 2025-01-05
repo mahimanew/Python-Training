@@ -13,6 +13,15 @@
 
 - **Questions**:
   - What are the key features of Python?
+      1. Simple and Easy to Learn
+      2. Interpreted Language
+      3. Dynamically Typed
+      4. Versatile and Cross-Platform
+      5. Extensive Standard Library
+      6. Object-Oriented and Functional
+      7. Large Community and Ecosystem  - Webdevelopment, Data science, AI, Automation
+      8. Open source
+         
   - Write a Python program to print your name.
 
 ---
