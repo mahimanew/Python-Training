@@ -1,6 +1,3 @@
-Here’s a detailed **summary of the content for all 7 days** in your Python training program, based on what we've discussed so far. Each day progresses from basic to advanced concepts.
-
----
 
 ## **Day 1: Python Basics**
 ### **Topics:**
