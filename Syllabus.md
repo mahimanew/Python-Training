@@ -152,6 +152,125 @@
    - String manipulations.
    - Create a merged dictionary using `zip()`.
    - Use `map()` to square numbers in a list.
+  
+### **Day 8: Functions (User-defined and Advanced)**  
+- **Basic Concepts**  
+  - Introduction to functions: definition, purpose, and syntax.  
+  - Parameters and return values.  
+  - Local and global variables.  
+  - Example: A simple function to add two numbers.  
+- **Intermediate Concepts**  
+  - Default arguments.  
+  - Keyword arguments.  
+  - Variable-length arguments  
+  - Recursion.  
+- **Advanced Concepts**  
+  - Lambda functions (anonymous functions).  
+  - Higher-order functions (functions that take other functions as arguments).  
+  - Nested functions and closures.  
+  - Decorators (creating and using them).
+
+### **Day 9: File Handling**  
+- **Basic Concepts**  
+  - Opening, reading, writing, and closing files.  
+  - File modes: `r`, `w`, `a`, `rb`, `wb`.  
+  - Example: Reading and writing to a text file.  
+- **Intermediate Concepts**  
+  - Reading lines from a file and processing them.  
+  - Handling binary files.  
+  - Working with file paths using `os` and `pathlib`.  
+- **Advanced Concepts**  
+  - Context managers (`with` statement).  
+  - File handling exceptions and error handling.  
+  - Reading and writing CSV, JSON, and XML files.  
+  - Working with large files efficiently using generators.
+
+### **Day 10: Error Handling (Exception Handling)**  
+- **Basic Concepts**  
+  - Introduction to errors and exceptions in Python.  
+  - `try`, `except`, `else`, and `finally` blocks.  
+  - Common exceptions (`IndexError`, `ValueError`, etc.).  
+- **Intermediate Concepts**  
+  - Raising exceptions using `raise`.  
+  - Custom exceptions (creating your own exception classes).  
+  - Handling multiple exceptions in one block.  
+- **Advanced Concepts**  
+  - Nested try-except blocks.  
+  - Using `assert` for debugging.  
+  - Logging errors using the `logging` module.  
+  - Best practices for error handling and debugging.
+
+### **Day 11: Object-Oriented Programming (OOP)**  
+- **Basic Concepts**  
+  - Introduction to OOP concepts: Classes and objects.  
+  - Defining classes and creating instances.  
+  - Instance variables and methods.  
+  - Example: A simple `Car` class with attributes and methods.  
+- **Intermediate Concepts**  
+  - `__init__` (constructor) and `__del__` (destructor).  
+  - Inheritance and method overriding.  
+  - Encapsulation (private and public attributes).  
+  - Polymorphism: method overloading and overriding.  
+- **Advanced Concepts**  
+  - Abstract classes and methods.  
+  - Multiple inheritance.  
+  - Static and class methods.  
+  - Composition and aggregation in OOP.
+
+### **Day 12: Modules and Libraries**  
+- **Basic Concepts**  
+  - Introduction to Python modules and libraries.  
+  - Importing modules and using standard libraries (`math`, `datetime`, `os`, etc.).  
+  - Using `import` and `from ... import ...`.  
+- **Intermediate Concepts**  
+  - Creating your own Python modules.  
+  - Exploring popular third-party libraries: `requests`, `numpy`, `pandas`.  
+  - Installing and using libraries with `pip`.  
+- **Advanced Concepts**  
+  - Python package structure and `__init__.py`.  
+  - Working with `virtualenv` for environment management.  
+  - Understanding `__main__` in modules.  
+  - Creating and distributing your own Python packages.
+
+### **Day 13: Working with APIs and Data (JSON, REST APIs)**  
+- **Basic Concepts**  
+  - Introduction to APIs and how they work (RESTful APIs).  
+  - Using the `requests` module for HTTP requests.  
+  - Working with JSON data: parsing and converting JSON in Python.  
+- **Intermediate Concepts**  
+  - Authentication: API keys, OAuth, and Basic Authentication.  
+  - Making `GET`, `POST`, `PUT`, and `DELETE` requests.  
+  - Handling HTTP response status codes.  
+  - Query parameters and handling paginated data.  
+- **Advanced Concepts**  
+  - Error handling in API requests.  
+  - Working with rate limits and timeouts.  
+  - Sending and receiving data with APIs in different formats (e.g., XML, CSV).  
+  - Webhooks and handling real-time data.
+
+### **Day 14: Working with Databases (SQL, SQLite)**  
+- **Basic Concepts**  
+  - Introduction to databases: SQL basics.  
+  - Setting up and connecting to a SQLite database using `sqlite3`.  
+  - Basic SQL queries: `SELECT`, `INSERT`, `UPDATE`, `DELETE`.  
+- **Intermediate Concepts**  
+  - Creating tables, primary keys, and relationships.  
+  - Using `WHERE`, `JOIN`, and other SQL clauses.  
+  - Using `commit` and `rollback` for transactions.  
+- **Advanced Concepts**  
+  - Handling complex queries with subqueries and aggregations.  
+  - SQL injection and best practices for preventing it.  
+  - Using ORM (Object-Relational Mapping) with libraries like SQLAlchemy.  
+  - Integrating databases with Python applications.
+
+ 
+
+### **Day 15: Final Project and Wrap-Up**  
+- **Project**  
+  - A hands-on final project combining various concepts learned (APIs, databases, file handling, OOP, etc.).  
+  - Examples of project ideas:  
+    - Build a task management application with a database backend.  
+    - Create a weather dashboard that pulls data from an external API.  
 
 ---
 
