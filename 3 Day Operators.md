@@ -139,12 +139,26 @@ Used to check if a value is present in a sequence (e.g., list, tuple, string).
 | `in`     | True if value is in the sequence | `x in y`      |
 | `not in` | True if value is not in sequence | `x not in y`  |
 
-- **Example**:
+- **Example1**:
   ```python
   my_list = [1, 2, 3, 4]
   print(2 in my_list)       # True
   print(5 not in my_list)   # True
   ```
+
+- **Example 2**
+  ```
+  # Define a variable
+x = 42
+
+# Get the memory address
+address = id(x)
+
+# Print the address in decimal and hexadecimal
+print(f"Address of x in decimal: {address}")
+print(f"Address of x in hexadecimal: {hex(address)}")
+```
+  
 
 ---
 
