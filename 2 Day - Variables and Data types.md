@@ -200,8 +200,7 @@
 ### **10. Advanced Exercises**
 1. Create a program that accepts a user’s name, age, and favorite hobby and stores them in a dictionary.
 2. Write a program to calculate the average of numbers stored in a list.
-3. Create a function that takes a tuple of numbers and returns a new tuple with the squares of each number.
-4. Explain what happens when you try to modify a tuple or a string.
+3. Explain what happens when you try to modify a tuple or a string.
 
 ---
 
