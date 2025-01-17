@@ -263,6 +263,7 @@ print(closure())  # Output: 10
 2. **Intermediate:**
    - Write a function that checks if a number is prime (using recursion).
    - Write a program that returns the nth Fibonacci number using recursion.
+   - Create a function that takes a tuple of numbers and returns a new tuple with the squares of each number.
 
 3. **Advanced:**
    - Write a decorator that logs the function call with arguments and return values.
