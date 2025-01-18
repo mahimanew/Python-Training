@@ -165,10 +165,9 @@ print(f"Address of x in hexadecimal: {hex(address)}")
 
 ### **9. Exercises**
 1. Write a program to calculate the result of an arithmetic expression using user inputs.
-2. Check if a given number is both positive and even using logical operators.
+2. Check if a given number and find whether odd or even.
 3. Write a program to check if a string contains the letter "a" using membership operators.
 4. Compare two lists to check if they are the same object or just have the same values.
-5. Perform bitwise operations on two numbers input by the user.
 
 ---
 
