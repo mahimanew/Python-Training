@@ -80,15 +80,7 @@ for i in range(10):
     print(i)
 ```
 
-### **`pass` Statement**:
-A placeholder that does nothing. Useful for future implementation.
-```python
-for i in range(5):
-    if i == 3:
-        pass
-    else:
-        print(i)
-```
+
 
 ---
 
