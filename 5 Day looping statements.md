@@ -199,12 +199,7 @@ for i in range(0, 10, 2):
 
 ---
 
-## **10. Real-World Applications**
-1. **Data Processing**: Loops are used to iterate through datasets or perform repetitive tasks like file operations.
-2. **Simulations**: Nested loops can simulate grids, such as in games or scientific calculations.
-3. **Automation**: Automating repetitive tasks like sending multiple emails.
 
----
 
 
 ---
@@ -239,31 +234,7 @@ while True:
 
 ---
 
-## **3. Examples of Simulated `do-while` in Python**
 
-### **Example 1: User Input Validation**
-```python
-while True:
-    number = int(input("Enter a positive number: "))
-    if number > 0:
-        print("Thank you!")
-        break
-    else:
-        print("The number must be positive. Try again.")
-```
-
-### **Example 2: Password Authentication**
-```python
-correct_password = "python123"
-
-while True:
-    password = input("Enter your password: ")
-    if password == correct_password:
-        print("Access granted!")
-        break
-    else:
-        print("Incorrect password. Try again.")
-```
 
 ### **Example 3: Menu-Driven Program**
 ```python
@@ -286,18 +257,6 @@ while True:
 
 ---
 
-## **4. How It Differs from `while`**
-The key difference between a regular `while` loop and a simulated `do-while` loop is that the code block executes at least once before the condition is checked.
-
----
-
-## **5. Exercises**
-
-### **Basic**:
-1. Write a program that asks the user to guess a secret number. The loop should run until the correct number is guessed.
-
-### **Intermediate**:
-2. Create a program that repeatedly asks for a user's name until a non-empty string is entered.
 
 ### **Advanced**:
 3. Simulate a simple calculator where the user can perform addition, subtraction, multiplication, or division. The loop should continue until the user chooses to exit.
