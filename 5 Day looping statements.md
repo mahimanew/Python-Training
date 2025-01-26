@@ -55,13 +55,7 @@ while condition:
        x -= 1
    ```
 
-2. **User Input Example**:
-   ```python
-   password = ""
-   while password != "1234":
-       password = input("Enter password: ")
-   print("Access granted!")
-   ```
+
 
 ---
 
