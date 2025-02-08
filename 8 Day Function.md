@@ -226,19 +226,7 @@ Decorators are widely used in frameworks like Flask and Django for routing, midd
 
 ---
 
-#### **5.2. Closures**
-A closure is a function that retains access to its lexical scope even when called outside that scope.
 
-```python
-def outer():
-    x = 10
-    def inner():
-        return x
-    return inner
-
-closure = outer()
-print(closure())  # Output: 10
-```
 
 ---
 
