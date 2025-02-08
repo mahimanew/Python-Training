@@ -140,10 +140,6 @@ Python comes with many built-in functions that allow you to perform common tasks
    print(id(10))
    ```
 
-3. **`dir()`**: Lists the attributes and methods of an object.
-   ```python
-   print(dir([]))  # Lists methods for a list object.
-   ```
 
 ---
 
