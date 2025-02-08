@@ -174,25 +174,10 @@ Python comes with many built-in functions that allow you to perform common tasks
 
 ## **5. Exercises**
 
-### **Basic**:
 1. Write a program that takes two numbers as input, adds them, and prints the result using `input()` and `print()`.
 2. Find the largest and smallest numbers in a list using `max()` and `min()`.
-
-### **Intermediate**:
-3. Write a program to calculate the factorial of a number using `reduce()` from `functools`.
-4. Use `zip()` to combine two lists into a dictionary.
-
-### **Advanced**:
-5. Create a program to read a file and count the number of words in it using `open()` and `len()`.
-6. Use `map()` and `filter()` to create a new list of squared even numbers from a given list.
-
----
-
-## **6. Real-World Applications**
-1. **Data Processing**: Using `map()` and `filter()` for transforming and filtering datasets.
-2. **File Operations**: Using `open()` for file reading and writing.
-3. **String Manipulation**: Functions like `ord()` and `chr()` for handling text encoding.
-
+3. Use `zip()` to combine two lists into a dictionary.
+4. Create a program to read a file and count the number of words in it using `open()` and `len()`.
 ---
 
 
