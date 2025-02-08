@@ -153,20 +153,8 @@ my_function()  # Output: 20
 print(x)  # Output: 20 (global x is updated)
 ```
 
-**Nonlocal Scope:**
-A variable defined in an outer function but not global can be accessed using the `nonlocal` keyword in a nested function.
 
-```python
-def outer():
-    x = 10
-    def inner():
-        nonlocal x
-        x = 20
-    inner()
-    print(x)
 
-outer()  # Output: 20
-```
 
 ---
 
